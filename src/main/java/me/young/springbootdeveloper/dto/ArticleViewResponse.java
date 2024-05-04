@@ -3,7 +3,6 @@ package me.young.springbootdeveloper.dto;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import me.young.springbootdeveloper.domain.Article;
-
 import java.time.LocalDateTime;
 
 @NoArgsConstructor
