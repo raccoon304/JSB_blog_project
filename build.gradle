@@ -27,7 +27,7 @@ dependencies { //프로젝트 개발할때 필요한 기능의 의존성
     testImplementation 'org.projectlombok:lombok'
     // security
     implementation 'org.springframework.boot:spring-boot-starter-security'
-
+    implementation 'org.springframework:spring-web'
     // jwt
     //implementation 'io.jsonwebtoken:jjwt-api:0.11.2'
     //runtimeOnly 'io.jsonwebtoken:jjwt-impl:0.11.2', 'io.jsonwebtoken:jjwt-jackson:0.11.2'
